@@ -2,11 +2,11 @@
 #Spiderman trivia/cardgame (working title)
 score = 0
 
-option1 = 'No dick head'
+option1 = 'No Dick Head'
 option2 = 'Absolutely not'
 option3 = 'Amazing'
 option4 = "That's crazy"
-option5 = 'all of the above'
+option5 = 'All of the Above'
 
 print("What is the simplest solution to this problem?")
 
@@ -23,4 +23,5 @@ if answer == 'A' or answer == 'a':
     print("Correct!")
 else:
     print("Nope, sorry!")
-    
+
+
