@@ -8,13 +8,13 @@ option3 = 'Amazing'
 option4 = "That's crazy"
 option5 = 'All of the Above'
 
-print("What is the simplest solution to this problem?")
-
-print("A", option1)
-print("B", option2)
-print("C", option3)
-print("D", option4)
+print("A", option1) 
+print("B", option2) 
+print("C", option3) 
+print("D", option4) 
 print("E", option5)
+
+input("What is the simplest solution to this problem?")
 
 answer = 'a'
 
