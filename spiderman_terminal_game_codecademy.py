@@ -24,4 +24,26 @@ if answer == 'A' or answer == 'a':
 else:
     print("Nope, sorry!")
 
+option1 = 'Miles Morales'
+option2 = 'Spider Man'
+option3 = 'Green Goblin'
+option4 = "Dr. Octavius"
+option5 = 'All of the Above'
 
+print("A", option1) 
+print("B", option2) 
+print("C", option3) 
+print("D", option4)
+print("E", option5)
+
+input("Who is the Prowler's nephew?")
+
+answer = 'a'
+
+if answer == 'A' or answer == 'a':
+    score += 100
+    print("Correct!")
+else:
+    print("Nope, sorry!")
+
+print(score)
