@@ -2,7 +2,7 @@
 #Spiderman trivia/cardgame (working title)
 score = 0
 
-option1 = 'No Dick Head'
+option1 = 'No'
 option2 = 'Absolutely not'
 option3 = 'Amazing'
 option4 = "That's crazy"
